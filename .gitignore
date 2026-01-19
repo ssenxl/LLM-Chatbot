@@ -3,3 +3,7 @@ ragenv/
 __pycache__/
 *.log
 .env
+data/
+logs/
+erp_assets/
+static/uploads/
